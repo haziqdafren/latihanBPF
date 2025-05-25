@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Organic Bananas",
+    "price": 4.99,
+    "image": "img/product-2-1.jpg",
+    "category": "Fruits",
+    "sale": true,
+    "description": "Fresh organic bananas imported directly from eco-friendly farms. Rich in potassium and perfect for smoothies."
+  },
+  {
+    "id": 2,
+    "name": "Extra Virgin Olive Oil",
+    "price": 12.50,
+    "image": "img/product-2-2.jpg",
+    "category": "Pantry",
+    "sale": false,
+    "description": "Cold-pressed extra virgin olive oil from sustainable Mediterranean groves. Perfect for cooking and salad dressings."
+  },
+  {
+    "id": 3,
+    "name": "Free-Range Eggs",
+    "price": 6.99,
+    "image": "img/product-2-3.jpg",
+    "category": "Dairy",
+    "sale": false,
+    "description": "Farm-fresh eggs from free-range chickens raised without antibiotics or hormones."
+  },
+  {
+    "id": 4,
+    "name": "Organic Carrots",
+    "price": 3.49,
+    "image": "img/product-2-4.jpg",
+    "category": "Vegetables",
+    "sale": true,
+    "description": "Sweet and crunchy organic carrots grown without synthetic pesticides. Great for snacking and cooking."
+  },
+  {
+    "id": 5,
+    "name": "Grass-Fed Beef",
+    "price": 18.99,
+    "image": "img/product-2-5.jpg",
+    "category": "Meat",
+    "sale": false,
+    "description": "Ethically raised, grass-fed beef from local farms. No antibiotics or hormones, just pure quality."
+  },
+  {
+    "id": 6,
+    "name": "Organic Spinach",
+    "price": 4.99,
+    "image": "img/product-2-6.jpg",
+    "category": "Vegetables",
+    "sale": false,
+    "description": "Fresh organic spinach, packed with nutrients and ready for salads, smoothies, or cooking."
+  }
+]

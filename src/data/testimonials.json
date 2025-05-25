@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "avatar": "https://avatar-placeholder.iran.liara.run/public/girl?username=SJ",
+    "text": "I've been ordering from Organik for over a year now, and the quality of produce is consistently excellent. It's great to know where my food is coming from!"
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "avatar": "https://avatar-placeholder.iran.liara.run/public/boy?username=MC",
+    "text": "The variety of organic products available is impressive. My family has noticed a real difference in taste compared to conventional supermarket options."
+  },
+  {
+    "id": 3,
+    "name": "Emma Davis",
+    "avatar": "https://avatar-placeholder.iran.liara.run/public/girl?username=ED",
+    "text": "Fast delivery and always fresh! I love the seasonal produce boxes - they inspire me to try new recipes and eat healthier."
+  },
+  {
+    "id": 4,
+    "name": "James Wilson",
+    "avatar": "https://avatar-placeholder.iran.liara.run/public/boy?username=JW",
+    "text": "The customer service is exceptional. When I had an issue with an order, they resolved it immediately and even threw in some extra items as an apology."
+  },
+  {
+    "id": 5,
+    "name": "Olivia Martinez",
+    "avatar": "https://avatar-placeholder.iran.liara.run/public/girl?username=OM",
+    "text": "I appreciate their commitment to sustainable packaging. It's wonderful to support a business that cares about both quality food and the environment."
+  }
+]

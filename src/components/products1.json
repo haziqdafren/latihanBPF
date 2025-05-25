@@ -1,0 +1,33 @@
+[
+    {
+      "member_id" : 1,
+      "nama" : "Haziq",
+      "email" : "haziq@gmail.com",
+      "tipe_member" : "Gold"
+    },
+      {
+        "member_id" : 2,
+        "nama" : "Haziq",
+        "email" : "haziq@gmail.com",
+        "tipe_member" : "Gold"
+      },
+      {
+        "member_id" : 3,
+        "nama" : "Haziq",
+        "email" : "haziq@gmail.com",
+        "tipe_member" : "Gold"
+      },
+      {
+        "member_id" : 4,
+        "nama" : "Haziq",
+        "email" : "haziq@gmail.com",
+        "tipe_member" : "Gold"
+      },
+      {
+        "member_id" : 5,
+        "nama" : "Haziq",
+        "email" : "haziq@gmail.com",
+        "tipe_member" : "Gold"
+      }
+              
+]

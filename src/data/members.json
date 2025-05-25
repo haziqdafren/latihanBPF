@@ -1,0 +1,32 @@
+[
+  {
+    "member_id": "M001",
+    "nama": "John Doe",
+    "email": "john@example.com",
+    "tipe_member": "silver"
+  },
+  {
+    "member_id": "M002",
+    "nama": "Jane Smith",
+    "email": "jane@example.com",
+    "tipe_member": "gold"
+  },
+  {
+    "member_id": "M003",
+    "nama": "Bob Johnson",
+    "email": "bob@example.com",
+    "tipe_member": "platinum"
+  },
+  {
+    "member_id": "M004",
+    "nama": "Alice Brown",
+    "email": "alice@example.com",
+    "tipe_member": "silver"
+  },
+  {
+    "member_id": "M005",
+    "nama": "Charlie Wilson",
+    "email": "charlie@example.com",
+    "tipe_member": "gold"
+  }
+]
