@@ -11,7 +11,7 @@ const MenuList = () => {
   const menuItems = [
     {
       id: 1,
-      to: "/",
+      to: "/dashboard",
       icon: <MdDashboard className="mr-4 text-xl" />,
       label: "Dashboard",
     },
