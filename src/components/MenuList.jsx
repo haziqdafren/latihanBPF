@@ -1,3 +1,4 @@
+import { TbBrandProducthunt } from "react-icons/tb"; 
 import { AiOutlineUser } from "react-icons/ai"; 
 import { BiErrorCircle } from "react-icons/bi"; 
 import { BiMessageAltError } from "react-icons/bi"; 
@@ -33,23 +34,29 @@ const MenuList = () => {
       icon: <BiMessageAltError className="mr-4 text-xl" />,
       label: "Error 400",
     },
-    {
+     {
       id: 5,
-      to: "/error-401",
+      to: "/user",
+      icon: <AiOutlineUser className="mr-4 text-xl" />,
+      label: "User",
+    },
+    {
+      id: 6,
+      to: "/products",
+      icon: <TbBrandProducthunt className="mr-4 text-xl" />,
+      label: "Products",
+    },
+    {
+      id: 7,
+       to: "/error-401",
       icon: <BiError className="mr-4 text-xl" />,
       label: "Error 401",
     },
     {
-      id: 6,
+      id: 8,
       to: "/error-402",
       icon: <BiErrorCircle className="mr-4 text-xl" />,
       label: "Error 402",
-    },
-    {
-      id: 7,
-      to: "/user",
-      icon: <AiOutlineUser className="mr-4 text-xl" />,
-      label: "User",
     },
   ];
 

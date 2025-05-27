@@ -19,6 +19,7 @@ import Product from "./components/Product";
 import AboutPage from "./components/AboutPage";
 import HomePage from "./components/HomePage";
 import MembershipCheckPage from "./components/MembershipCheckPage";
+import Products from "./pages/Products";
 
 import React from "react";
 
@@ -29,6 +30,7 @@ const Customers = React.lazy(() => import("./pages/Customer"));
 const NotFound = React.lazy(() => import("./pages/NotFound"));
 const ErrorPage = React.lazy(() => import("./components/ErrorPage"));
 const User = React.lazy(() => import("./pages/User"));
+const ProductDetail = React.lazy(() => import("./pages/ProductDetail"));
 
 function App() {
   return (
@@ -40,6 +42,8 @@ function App() {
           <Route path="/orders" element={<Orders />} />
           <Route path="/customers" element={<Customers />} />
           <Route path="/user" element={<User />} />
+          <Route path="/products" element={<Products/>} />
+          <Route path="/products/:id" element={<ProductDetail />} /> 
 
           <Route path="/error-400" element={<ErrorPage errorCode={400} />} />
           <Route path="/error-401" element={<ErrorPage errorCode={401} />} />
