@@ -110,7 +110,7 @@ export default function Products() {
                     type="text" 
                     value={query} 
                     onChange={(e) => setQuery(e.target.value)} 
-                    placeholder="Cari produk..." 
+                    placeholder="Cari nama produk..." 
                     className="w-full p-3 bg-white border border-gray-300 rounded-2xl shadow-lg focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500" 
                 />
             </div>
